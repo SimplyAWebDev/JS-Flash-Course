@@ -10,7 +10,7 @@ document.querySelector("#close-nav-menu").addEventListener("click", function(){
 
 
 
-// Greeting Text
+// Greeting Text check
 
 const greetingText = "Good morning";
 const weatherCondition = "sunny";
